@@ -1,0 +1,39 @@
+
+
+.lastCont h3{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+
+.lastCont{
+    background-color: black;
+    color: rgb(109, 170, 236);
+    display: flex;
+    justify-content:space-around;
+    
+    
+}
+.paraLast1 {
+    color: rgb(153, 156, 158);
+    text-align: left;
+}
+.cont2div {
+    color: rgb(153, 156, 158);
+    text-align: left;
+}
+.galleriesGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /* grid-template-rows:100px 100px 100px 100px; */
+    grid-gap:10px;
+  
+    
+   
+    color: rgb(153, 156, 158);
+}
+.galleriesGrid img{
+    width:100px;
+    height:100px;
+}

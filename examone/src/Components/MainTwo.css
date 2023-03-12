@@ -1,0 +1,32 @@
+.ourFeatures{
+    margin-top: 50px;
+}
+
+
+
+
+.card-deck{
+    display: flex;
+    gap: 20px;
+    margin-top: 100px;
+    
+
+}
+.cardOneline{
+    width:1000px
+}
+.Logo2{
+    background-color: blue;
+    color: white;
+    height: 90px;
+    width:90px;
+    padding:20px 0px 0px 0px;
+    border-radius: 50%;
+    margin-left: 40%;
+}
+.card{
+    border: none;
+}
+a{
+    text-decoration: none;
+}

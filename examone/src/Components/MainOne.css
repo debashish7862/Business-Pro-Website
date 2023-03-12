@@ -1,0 +1,23 @@
+.card-img{
+
+    height: 700px;
+}
+/* .card{
+    margin-top: 50%;
+} */
+.nameDetail{
+    margin-top: 20%;
+margin-bottom: .5rem;
+font-weight: 500;
+line-height: 1.2;
+}
+button{
+    padding: 15px;
+    color: rgb(243, 243, 251);
+    height: 70px;
+    background-color: rgb(71,130,211);
+    border-radius: 30px;
+    width: 150px;
+    border-style: none;
+    margin-top: 20px;
+}
